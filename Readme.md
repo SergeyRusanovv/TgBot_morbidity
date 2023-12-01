@@ -24,3 +24,10 @@
 - Некорректные параметры
 - ![img_2.png](Photos/img_2.png)
 
+<h1>Использованные библиотеки:</h1>
+<ul>
+    <li>peewee ORM</li>
+    <li>telebot</li>
+    <li>request с запросом к API</li>
+    <li>Линтер flake8</li>
+</ul>
